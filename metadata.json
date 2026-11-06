@@ -1,0 +1,6 @@
+{
+  "name": "Milan - Community Dating",
+  "description": "Connect with potential partners who share your community background, caste heritage, mother tongue, traditions, and cultural values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
